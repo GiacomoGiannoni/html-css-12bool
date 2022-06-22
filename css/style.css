@@ -5,3 +5,8 @@
     border: solid 1px white;
 }
 
+.debug .box-inner {
+    background-color: green;
+    border: solid 1px white;
+    padding: 20px;
+}
