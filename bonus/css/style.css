@@ -1,0 +1,39 @@
+.debug .box-green {
+    background-color: #22481C;
+    height: 100px;
+}
+
+.debug .box-greenlight {
+    background-color: #3C9D30;
+    height: 100px;
+}
+
+.debug .box-fucsia {
+    background-color: #BF1864;
+    height: 100px;
+}
+
+.debug .box-pink {
+    background-color: #E9A3C0;
+    height: 100px;
+}
+
+.debug .box-brown {
+    background-color: #643800;
+    height: 100px;
+}
+
+.debug .box-sabbia {
+    background-color: #FDC98D;
+    height: 100px;
+}
+
+.debug .box-white {
+    background-color: white;
+    height: 100px;
+}
+
+.debug .box-black {
+    background-color: black;
+    height: 100px;
+}
