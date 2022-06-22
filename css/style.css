@@ -1,2 +1,7 @@
-
+.debug .box {
+    background-color: blue;
+    color: white;
+    height: 100px;
+    border: solid 1px white;
+}
 
